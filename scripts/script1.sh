@@ -1,0 +1,5 @@
+echo " Hello shraddha"
+echo "siddharth"
+echo "snehal"
+echo " shubham"
+echo "siddhi"
