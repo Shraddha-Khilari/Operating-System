@@ -1,5 +1,0 @@
-total 12
--rw-rw-r-- 1 sunbeam sunbeam  0 Dec 26 14:31 lsout.txt
--rw-rw-r-- 1 sunbeam sunbeam 37 Dec 26 14:26 numbers.txt
--rw-rw-r-- 1 sunbeam sunbeam 22 Dec 26 14:10 numbers.txt1
--rw-rw-r-- 1 sunbeam sunbeam 37 Dec 26 14:27 sorted.txt

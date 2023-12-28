@@ -1,8 +1,0 @@
-dc
-dmc
-dmmc
-dmmmc
-dmmmmc
-dmmmmmc
-dmmmmmmc
-dmmmmmmmc
